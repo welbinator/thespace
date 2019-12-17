@@ -9,7 +9,7 @@
               
               if(isset($_GET['page'])) { //pagination
                 
-                $page = $_GET['page'];
+                $page = $_GET['page']; 
               } else {
                 $page = "";
                 
@@ -53,6 +53,13 @@
                   
                 
                     ?>
+
+<?php 
+if ($connection->connect_error) {
+    die("Connection failed: " . $connection->connect_error);
+}
+echo "Connected successfully";
+?>
 
 
 <div class="blog-posts" id="blog-posts">
