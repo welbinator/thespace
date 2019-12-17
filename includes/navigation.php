@@ -18,9 +18,9 @@
             <li class="nav-item">
               <a class="nav-link" href="contact.php">Contact Us</a>
             </li>
-            <li class="nav-item active">
+            <!-- <li class="nav-item active">
               <a class="nav-link" href="blog.php">Blog</a>
-            </li>
+            </li> -->
 
             <li class="social-link"><a href="https://www.facebook.com/the.space.cr/"><i class="zmdi zmdi-facebook"></i></a></li>
             <li class="social-link"><a href="https://www.instagram.com/escape_the_cube/"><i class="zmdi zmdi-instagram"></i></a></li>
