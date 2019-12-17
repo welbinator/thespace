@@ -6,9 +6,31 @@
        
       <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
         <title>The Space - Coworking Space and Community for Iowa Creatives and Freelancers</title>
-        <meta name="description" content="">
+        <meta name="description" content="A space to support creativity and celebrate collaboration, located in Cedar Rapids' historic NewBo District.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+        <?php 
+
+$uri = $_SERVER['REQUEST_URI'];
+
+switch($uri) { // this uses the URL to include particular pages
+case '/referral.php';
+include "includes/page-meta-referral.php";
+break;
+
+default:
+
+include "includes/page-meta.php";
+
+break;
+}
+
+?>    
+
 
         <link rel="apple-touch-icon" href="favicon.png">
       <link rel="shortcut icon" href="favicon.png" />
@@ -33,6 +55,7 @@
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
       
       
+        <?php include "includes/analytics.php"; ?>
       <!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
@@ -54,6 +77,8 @@
       
     </head>
     <body>
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -64,36 +89,12 @@
 
 
         <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-light rounded">
-        <div class="logo">
-<a href="index.php"><img loading="lazy" src="img/logo/The-Space_Coworking_Cedar-Rapids_Logo.png" alt="The Space" /></a>
-</div>
-        <button id="mobile-menu-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation" onclick="toggleMenu();">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarsExample09">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.php">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact Us</a>
-            </li>
-
-            <li class="social-link"><a href="https://www.facebook.com/the.space.cr/"><i class="zmdi zmdi-facebook"></i></a></li>
-            <li class="social-link"><a href="https://www.instagram.com/escape_the_cube/"><i class="zmdi zmdi-instagram"></i></a></li>
-         </ul>
-
-
-        </div>
-      </nav>
+       <?php include "includes/navigation.php"; ?>
 
         </div>
 
 
 			</div>
 		</header>
+
+     

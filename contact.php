@@ -15,7 +15,7 @@
                                    </div>
                                    <div class="info-content">
                                         <h3>Location :</h3>
-                                        <p>329 10th Ave SE st 217</p>
+                                        <p>208 12th ave SE Unit G</p>
                                      <p>Cedar Rapids, IA 52401</p>
                                    </div>
                                </div>
@@ -33,6 +33,9 @@
                            </div>
 
                        </div>
+
+
+
                        <div class="contact-inner">
                            <h2>Get in touch</h2><br>
                          

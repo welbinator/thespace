@@ -31,8 +31,51 @@
 
 -----------------------------------------------------------------------------------*/
 
-/*hello!*/
 
+blockquote {
+    margin: 50px;
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+
+#single-post-container {
+  max-width: 70vw;
+  margin: auto;
+}
+#single-post-container a {
+  color: black;
+}
+
+#single-post-container h2 {
+    font-size: 50px;
+    margin-top: 50px;
+}
+.post-content p {
+    font-size: 21px;
+    line-height: 30px;
+  margin-top: 8px;
+}
+.page-title {
+      color: black!important;
+    padding-top: 60px;
+    font-size: 60px;
+    text-align: center;
+}
+.blog-posts-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.blog-posts {
+  margin: 20px;
+}
+#blog-posts .img-wrap {
+  width: 500px;
+}
 .fa {
   color: black;
 }
@@ -207,7 +250,7 @@ label {
 .mark, mark {
     background: #4fc1f0 none repeat scroll 0 0;
     color: #ffffff;
-	font-weight: 600;
+}	font-weight: 600;
 }
 .f-left {float: left}
 .f-right {float: right}
@@ -228,7 +271,6 @@ ul{
 ::-moz-placeholder { /* Firefox 19+ */
     color: #969696;
     opacity:1;
-    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 :-ms-input-placeholder { /* IE 10+ */
@@ -752,7 +794,6 @@ height: 45vh;
 }
 .main-menu ul li:hover > ul {
     opacity: 1;
-    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
 }
@@ -784,7 +825,6 @@ height: 45vh;
 .main-menu ul li ul li > ul {
     left: 100%;
     opacity: 0;
-    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     position: absolute;
     top: 17%;
@@ -900,14 +940,12 @@ height: 45vh;
 .menu-style-toggle nav {
     margin-right: -30px;
     opacity: 0;
-    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     visibility: hidden;
 }
 .menu-style-toggle nav.menu-open {
     margin-right: 0;
     opacity: 1;
-    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
 }
@@ -1111,7 +1149,7 @@ height: 45vh;
 .owl-nav .owl-next {left: auto; right: -46px;}
 .slider-area:hover .owl-nav div {left: 0;}
 .slider-area:hover .owl-nav .owl-next {left: auto;  right: 0;}
-.owl-nav div:hover{ color: #471A72;}
+.owl-nav div:hover{rgba(0, 46, 91, 0.9); color: #471A72}
 .single-slide{background-position: top center; background-size: cover}
 .animated.infinite {
     animation-iteration-count: infinite;

@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="main-footer">
                     <div class="row">
-                        <div class="col-md-4 col-sm-4 col-xs-12">
+                        <div class="col-md-3 col-sm-4 col-xs-12">
                             <div class="single-widget mr-50">
                                 <h3>about us</h3>
                                 <p>The Space is a coworking space and community for Iowa creatives. With a wonderful mix of artists, freelancers and entrepreneurs, The Space offers something you won't find at other coworking spaces: community. </p>
@@ -13,7 +13,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-3 col-xs-12">
+                        <div class="col-md-3 col-sm-3 col-xs-12">
                             <div class="single-widget ml-100">
                                 <h3>contact us</h3>
                                 <p>329 10th Ave SE ste 217<br>
@@ -22,7 +22,7 @@
                                 Phone : 319.360.5541</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <div class="single-widget">
                                 <h3>newest members</h3>
                                 <div class="footer-img">
@@ -35,6 +35,14 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-3">
+                        <div class="single-widget">
+                                <h3>events</h3>
+                            <!-- facebook thing -->
+                       <div class="fb-page" data-href="https://www.facebook.com/the.space.cr" data-tabs="events" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/the.space.cr" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/the.space.cr">The Space Coworking</a></blockquote></div>
+<!-- end facebook thing -->
+                        </div>
+                    </div>
                     </div>
                 </div>
                 <div class="footer-bottom text-center">

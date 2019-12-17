@@ -1,37 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
 <url>
-  <loc>http://escapethecube.space/</loc>
-  <lastmod>2019-09-09T13:43:57+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>http://cedarrapidscoworking.space/</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>http://escapethecube.space/index.php</loc>
-  <lastmod>2019-09-09T13:43:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://cedarrapidscoworking.space/index.php</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>http://escapethecube.space/about.php</loc>
-  <lastmod>2019-09-09T13:43:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://cedarrapidscoworking.space/about.php</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>http://escapethecube.space/contact.php</loc>
-  <lastmod>2019-09-09T13:43:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://cedarrapidscoworking.space/contact.php</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>http://escapethecube.space/office.php</loc>
-  <lastmod>2019-09-09T13:43:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://cedarrapidscoworking.space/blog.php</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>http://cedarrapidscoworking.space/office.php</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>
+http://cedarrapidscoworking.space/single.php?p_id=5
+</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+http://cedarrapidscoworking.space/single.php?p_id=3
+</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+http://cedarrapidscoworking.space/single.php?p_id=2
+</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+http://cedarrapidscoworking.space/single.php?p_id=1
+</loc>
+<lastmod>2019-11-09T05:15:59+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>

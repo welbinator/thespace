@@ -1,5 +1,6 @@
 
 		<?php include "includes/header.php"; ?>
+        
 		<!-- Header Area End -->
 		<!-- Background Area Start -->
         <section id="slider-container" class="slider-area"> 
@@ -127,11 +128,11 @@
           <div class="col-sm">
           <div class="single-benefit"> 
                   <div class="benefit-icon">
-                    <span class="icon-lock"></span>
+                    <span class="icon-mic"></span>
                   </div>    
                   <div class="benefit-content">
-                    <h3> Personal locker</h3>
-                    <p>The Space has several lockers available for members to use. Members are welcome to bring a lock for added security</p>
+                    <h3> Recording Studio</h3>
+                    <p>The Space has a dedicated office that members can use for phone calls, client meetings, or even recording a podcast!</p>
                   </div>
               
               </div>
@@ -267,14 +268,14 @@
                   <div class="col-md-4 hidden-sm col-xs-12">
                         <div class="single-table">
                             <div class="table-head">
-                                <h4>Private Office</h4>
+                                <h4>Private Office (170sqft)</h4>
                                 <h3>Let's Talk</h3>
                             </div>
                             <div class="table-body">
                                 <ul>
                                     <li>All the benefits of the Floater plan and Dedicated Desk plus:</li>
                                     <li>Your own private office, with a desk, and two chairs</li>
-                                  <h3>COMING SOON!!</h3>
+                                  
                                   <h5><a href="/office.php">Learn More</a></h5>
                                    
                                 </ul>
