@@ -1,6 +1,0 @@
-    
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/escape/public_html/
-    - /bin/cp -R * $DEPLOYPATH
