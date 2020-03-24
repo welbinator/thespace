@@ -19,12 +19,12 @@
                 class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#">Home</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">About</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Pricing</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Members</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">COntact</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link social" href="#"><i class="fab fa-facebook"></i><span>&nbsp;facebook</span></a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link social mt-2 mt-md-0" href="#"><i class="fab fa-instagram"></i><span>&nbsp;Instagram</span></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#perks">About</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#pricing-js">Pricing</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#new-members-js">Members</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Contact</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link social" target="_blank" href="https://www.facebook.com/the.space.cr/"><i class="fab fa-facebook"></i><span>&nbsp;facebook</span></a></li>
+                    <!-- <li class="nav-item" role="presentation"><a class="nav-link social mt-2 mt-md-0" href="#"><i class="fab fa-instagram"></i><span>&nbsp;Instagram</span></a></li> -->
                 </ul>
         </div>
         </div>
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div><img class="bottom-triangle" src="assets/img/bottom-triangle.svg"></div>
-    <div class="section">
+    <div class="section" id="perks">
         <div class="container">
             <h1 class="fancy-header mb-5">Perks</h1>
             <div class="row">

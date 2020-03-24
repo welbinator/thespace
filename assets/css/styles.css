@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: 'Proxima Nova';
   font-weight: normal;
@@ -249,7 +252,18 @@ li .nav-link {
 .carousel-item {
   padding: 68px 180px;
 }
+@media screen and (max-width: 768px) {
+  .carousel-item {
+    padding: 68px 70px;
+}
+}
 
+@media screen and (max-width: 668px) {
+  .carousel-item {
+    padding: 0px;
+}
+  
+}
 .carousel-control-next, .carousel-control-prev {
   background-color: white;
   color: black;
