@@ -269,7 +269,7 @@
                             <a class="social-card-icon" href="https://herringbonefreelance.com" target="_blank"><i class="fas fa-globe"></i></a>
                             <a class="social-card-icon" href="https://www.facebook.com/herringbonefreelance/" target="_blank"><i class="fab fa-facebook"></i></a>
                             <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
-                            <a class="social-card-icon"href="	https://www.instagram.com/herringbonefreelance/" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a class="social-card-icon"href="https://www.instagram.com/herringbonefreelance/" target="_blank"><i class="fab fa-instagram"></i></a>
                             <a class="social-card-icon" href="https://www.linkedin.com/in/jennie-morton-freelance-engineering-writer/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                         </div>
                     </div>
@@ -279,7 +279,7 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/nate-houstman.png">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Nate Houstman - Digital Marketer</strong></h4>
+                                    <h4 class="card-title mb-0"><strong>Nate Houstman - Owner</strong></h4>
                                     <h5 class="text-muted mb-2">Xiphos Web Marketing</h5>
                                 </div>
                             </div>
@@ -288,6 +288,47 @@
                             <a class="social-card-icon" href="https://xiphoswebmarketing.com/" target="_blank"><i class="fas fa-globe"></i></a>
                             <a class="social-card-icon" href="https://www.facebook.com/xiphoswebmarketing" target="_blank"><i class="fab fa-facebook"></i></a>
                             <a class="social-card-icon" href="https://www.youtube.com/channel/UCsFz-XHDc0NSXNCsIMStgEg" target="_blank"><i class="fab fa-youtube"></i></a>
+                            
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-4">
+                <div class="col-12 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="profile-heading"><img class="profile-image" src="assets/img/kendra-aarhus.png">
+                                <div>
+                                    <h4 class="card-title mb-0"><strong>Kendra Aarhus Van Kirkchove</strong></h4>
+                                    <h5 class="text-muted mb-2"></h5>
+                                </div>
+                            </div>
+                            <p class="card-text">"I'm committed to showing you that together we can make a great impact on the world around us. Through conferences, speaking engagements,  volunteering, and empowering others to take action, this isn't a dream built on empty words. Let's talk. Let's make a difference. How can I help you inspire?" </p>
+                            <div class="social-card">
+                            <a class="social-card-icon" href="https://kendraaarhus.com" target="_blank"><i class="fas fa-globe"></i></a>
+                            <a class="social-card-icon" href="https://youConferences.com" target="_blank"><i class="fas fa-globe"></i></a>
+                            <a class="social-card-icon" href="https://www.facebook.com/kendraaarhus" target="_blank"><i class="fab fa-facebook"></i></a>
+                            <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
+                            <a class="social-card-icon"href="https://www.instagram.com/kendraarhus" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a class="social-card-icon" href="https://www.linkedin.com/in/Kendraaarhus" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="profile-heading"><img class="profile-image" src="assets/img/aaron-vannoy.png">
+                                <div>
+                                    <h4 class="card-title mb-0"><strong>Aaron Van Noy - Owner</strong></h4>
+                                    <h5 class="text-muted mb-2">Big Ten Web Design</h5>
+                                </div>
+                            </div>
+                            <p class="card-text">"We take our job seriously because your company’s future often depends on us. We educate our clients on our marketing strategies and the value we provide." </p>
+                            <div class="social-card">
+                            <a class="social-card-icon" href="https://bigtenwebdesign.com/" target="_blank"><i class="fas fa-globe"></i></a>
+                            <a class="social-card-icon" href="https://www.facebook.com/BigTenWebDesign/" target="_blank"><i class="fab fa-facebook"></i></a>
+                            <a class="social-card-icon" href="https://www.linkedin.com/company/big-ten-web-design/" target="_blank"><i class="fab fa-linkedin"></i></a>
                             
                                     </div>
                         </div>
