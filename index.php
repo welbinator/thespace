@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/Proxima%20Nova.css">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <?php include "includes/meta.php" ?>
 </head>
 
 <body>
