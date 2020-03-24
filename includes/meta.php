@@ -9,8 +9,8 @@
 <meta property="og:site_name" content="The Space Coworking" />
 
 
-<meta property="og:image" content="https://cedarrapidscoworking.space/assets/img/The-Space-OG.jpg"/>
-<meta property="og:image:secure_url" content="https://cedarrapidscoworking.space/assets/img/The-Space-OG.jpg" />
+<meta property="og:image" content="https://cedarrapidscoworking.space/assets/img/The-SpaceOG.jpg"/>
+<meta property="og:image:secure_url" content="https://cedarrapidscoworking.space/assets/img/The-SpaceOG.jpg" />
 <meta property="og:image:width" content="600" />
 <meta property="og:image:height" content="auto" />
 <meta property="og:image:alt" content='The Space Coworking Logo' />
@@ -18,4 +18,4 @@
 <meta name="twitter:description" content="The Space Coworking" />
 <meta name="twitter:title" content="The Space Coworking" />
 <!-- <meta name="twitter:site" content="@sitepointdotcom" /> -->
-<meta name="twitter:image" content="https://cedarrapidscoworking.space/assets/img/The-Space-OG.jpg" />
+<meta name="twitter:image" content="https://cedarrapidscoworking.space/assets/img/The-SpaceOG.jpg" />
