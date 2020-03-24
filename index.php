@@ -175,28 +175,26 @@
                     <div class="carousel-item">
                         <div class="card">
                             <div class="card-body">
-                                <div class="profile-heading"><img class="profile-image" src="assets/img/greg_dietzenbach.png">
+                                <div class="profile-heading"><img class="profile-image" src="assets/img/stephanie-mae.png">
                                     <div>
-                                        <h4 class="card-title mb-0"><strong>Greg Dietzenbach - Creative Director</strong></h4>
-                                        <h5 class="text-muted mb-2">McCullough Creative</h5>
+                                        <h4 class="card-title mb-0"><strong>Stephanie Mae - Owner</strong></h4>
+                                        <h5 class="text-muted mb-2">Stephanie's Creations</h5>
                                     </div>
                                 </div>
-                                <p class="card-text">"As a Creative Director, I’m always looking for new ways and places to inspire me and my team. The Space is exactly what I wanted in CR. It’s more than just a space, it’s a place where community nurtures creativity. That’s
-                                    important because nothing is created in a vacuum. Come to think of it, The Space doesn’t even own a vacuum (yet)." </p>
+                                <p class="card-text">"Good location, a tastefully remodeled building, nice comfortable furniture, and friendly people. Lots of opportunities for networking. Best coworking space in town!" </p>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="card">
                             <div class="card-body">
-                                <div class="profile-heading"><img class="profile-image" src="assets/img/greg_dietzenbach.png">
+                                <div class="profile-heading"><img class="profile-image" src="assets/img/lindsay-handy.png">
                                     <div>
-                                        <h4 class="card-title mb-0"><strong>Greg Dietzenbach - Creative Director</strong></h4>
-                                        <h5 class="text-muted mb-2">McCullough Creative</h5>
+                                        <h4 class="card-title mb-0"><strong>Lindsay Handy</strong></h4>
+                                        <h5 class="text-muted mb-2"></h5>
                                     </div>
                                 </div>
-                                <p class="card-text">"As a Creative Director, I’m always looking for new ways and places to inspire me and my team. The Space is exactly what I wanted in CR. It’s more than just a space, it’s a place where community nurtures creativity. That’s
-                                    important because nothing is created in a vacuum. Come to think of it, The Space doesn’t even own a vacuum (yet)." </p>
+                                <p class="card-text">"Perfect spot to get out of the office and in a comfortable yet productive environment! Get here! You will be glad you did!❤️" </p>
                             </div>
                         </div>
                     </div>
@@ -301,18 +299,18 @@
         <div class="container">
             <h1 class="text-center fancy-header my-5">Sponsors</h1>
             <div class="row">
-                <div class="col-12 col-md-4 mx-auto"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/imon_communications_logo.png"></a></div>
+                <div class="col-12 col-md-4 mx-auto"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://www.imon.net/" target="_blank"><img class="img-fluid" src="assets/img/imon_communications_logo.png"></a></div>
             </div>
             <h1 class="text-center fancy-header my-5">Partners</h1>
             <div class="row align-items-center mb-3">
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/allegra_marketing_print_mail.png"></a></div>
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/aroma_artisan_pizza.png"></a></div>
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/office_evolution.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://www.allegramarketingprint.com/locations/cedar_rapids-ia/" target="_blank"><img class="img-fluid" src="assets/img/allegra_marketing_print_mail.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://aromaartisanpizza.com/" target="_blank"><img class="img-fluid" src="assets/img/aroma_artisan_pizza.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://www.officeevolution.com/locations/cedar-rapids" target="_blank"><img class="img-fluid" src="assets/img/office_evolution.png"></a></div>
             </div>
             <div class="row align-items-center mb-3">
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/iowa_brewing_co.png"></a></div>
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/ross_street_roasting.png"></a></div>
-                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="#"><img class="img-fluid" src="assets/img/roasters_coffee_in_newbo.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://iowabrewing.beer/" target="_blank"><img class="img-fluid" src="assets/img/iowa_brewing_co.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://www.rossstreetroasting.com/" target="_blank"><img class="img-fluid" src="assets/img/ross_street_roasting.png"></a></div>
+                <div class="col-12 col-md-4"><a class="text-center d-flex justify-content-xl-center align-items-xl-center mb-4" href="https://www.facebook.com/Roasters-NewBo-656360344397781/" target="_blank"><img class="img-fluid" src="assets/img/roasters_coffee_in_newbo.png"></a></div>
             </div>
         </div>
     </div>
