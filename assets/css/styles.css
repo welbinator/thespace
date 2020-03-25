@@ -122,6 +122,9 @@ body {
   margin-right: 0;
 }
 
+canvas {
+  pointer-events: none;
+}
 .hero canvas {
   position: absolute;
   z-index: 0;
