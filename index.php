@@ -107,7 +107,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-center"><button class="btn btn-outline-secondary btn-lg" type="button">Join Our Community</button></div>
+        <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary btn-lg" type="button">Join Our Community</button></a></div>
     </div>
     <div id="pricing-js" class="section dark">
         <div class="container">
@@ -129,7 +129,7 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Discount on printing services through Allegra Printing</li>
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Business mail listing</li>
                             </ul>
-                            <div class="text-center"><button class="btn btn-outline-secondary" type="button">Get Started</button></div>
+                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
                         </div>
                     </div>
                 </div>
@@ -145,14 +145,14 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Your own desk and chair</li>
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Bigger discount on printing services through Allegra</li>
                             </ul>
-                            <div class="text-center"><button class="btn btn-outline-secondary" type="button">Get Started</button></div>
+                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <h1 class="text-center fancy-header mt-5 mb-3">Need A Day Pass?</h1>
-        <div class="text-center mb-5"><button class="btn btn-outline-primary btn-lg" type="button">Contact Us</button></div>
+        <div class="text-center mb-5"><a href="#footer"><button class="btn btn-outline-primary btn-lg" type="button">Contact Us</button></a></div>
     </div>
     <div class="section">
         <div class="container">
@@ -356,7 +356,7 @@
             </div>
         </div>
     </div>
-    <div class="section footer">
+    <div class="section footer" id="footer">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-md-6">
