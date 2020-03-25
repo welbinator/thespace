@@ -116,7 +116,7 @@ body {
 }
 
 .button-container .btn {
-  margin-right: 21px;
+  margin-right: 10px;
 }
 
 .button-container .btn:last-child {
@@ -352,6 +352,10 @@ a i {
     display: inline-flex;
     padding: .5rem;
   }
+  .carousel-control-next,
+  .carousel-control-prev {
+    display: none;
+  }
 }
 
 @media (max-width: 767px) {
@@ -401,4 +405,8 @@ a i {
 .section.footer a {
   color: white;
   text-decoration: none;
+}
+
+.carousel-indicators li {
+  background-color: #231f20;
 }

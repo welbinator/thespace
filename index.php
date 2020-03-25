@@ -155,7 +155,7 @@
             </div>
         </div>
         <h1 class="text-center fancy-header mt-5 mb-3">Need A Day Pass?</h1>
-        <div class="text-center mb-5"><a href="#footer"><button class="btn btn-outline-primary btn-lg" type="button">Contact Us</button></a></div>
+        <div class="text-center mb-5"><a href="#contact"><button class="btn btn-outline-primary btn-lg" type="button">Contact Us</button></a></div>
     </div>
     <div class="section">
         <div class="container">
@@ -217,8 +217,8 @@
         <div class="container">
             <h1 class="fancy-header mt-5">Members</h1>
             <p>What makes our space so great? Our members, of course</p>
-            <div class="row mb-4">
-                <div class="col-12 col-md-6">
+            <div class="row">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/devin-green-thumb.jpg">
@@ -238,7 +238,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/rina-jensen.jpg">
@@ -258,7 +258,7 @@
                 </div>
             </div>
             <div class="row mb-4">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/jennie-morton.jpg">
@@ -277,7 +277,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/nate-houstman.png">
@@ -298,7 +298,7 @@
                 </div>
             </div>
             <div class="row mb-4">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/kendra-aarhus.png">
@@ -318,7 +318,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 mb-4">
                     <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/aaron-vannoy.png">
