@@ -82,6 +82,7 @@ body {
   font-weight: bold;
   border: 2px solid;
   border-radius: .7rem;
+  text-decoration: none;
 }
 
 .btn.btn-outline-primary {
@@ -249,8 +250,6 @@ li .nav-link {
   z-index: 0;
 }
 
-.carousel-indicators li {
-}
 
 .carousel-item {
   padding: 68px 180px;
@@ -293,6 +292,7 @@ li .nav-link {
 
 .social-card {
   text-align: center;
+  margin-top: auto;
 }
 
 a {
@@ -393,3 +393,12 @@ a i {
   }
 }
 
+.member-card .card-body{
+  display: flex;
+  flex-direction: column;
+}
+
+.section.footer a {
+  color: white;
+  text-decoration: none;
+}

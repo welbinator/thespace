@@ -23,7 +23,7 @@
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#perks">About</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#pricing-js">Pricing</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#new-members-js">Members</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Contact</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#contact">Contact</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link social" target="_blank" href="https://www.facebook.com/the.space.cr/"><i class="fab fa-facebook"></i><span>&nbsp;facebook</span></a></li>
                     <!-- <li class="nav-item" role="presentation"><a class="nav-link social mt-2 mt-md-0" href="#"><i class="fab fa-instagram"></i><span>&nbsp;Instagram</span></a></li> -->
                 </ul>
@@ -36,7 +36,10 @@
                 <div class="col-12 col-md-4 align-self-center">
                     <h1 class="fancy-header">The <span class="outline">Space</span>&nbsp;For<br>your Creativity</h1>
                     <p>The Space is a coworking space and community for Cedar Rapids Iowa creatives. With a wonderful mix of artists, freelancers and entrepreneurs, The Space offers something you won't find at other coworking spaces: community.</p>
-                    <div class="button-container"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-primary" type="button">Join Our Community</button></a><a href="#perks"><button class="btn btn-outline-primary" type="button">Perks</button></a></div>
+                    <div class="button-container">
+                        <a href="https://membership.cedarrapidscoworking.space" class="btn btn-outline-primary" type="button">Join Our Community</a>
+                        <a href="#perks" class="btn btn-outline-primary" type="button">Perks</a>
+                    </div>
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="floating-image-container"><img class="img-fluid d-none d-md-block floating-image" src="assets/img/whole-image.png"></div>
@@ -216,7 +219,7 @@
             <p>What makes our space so great? Our members, of course</p>
             <div class="row mb-4">
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/devin-green-thumb.jpg">
                                 <div>
@@ -236,7 +239,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/rina-jensen.jpg">
                                 <div>
@@ -256,7 +259,7 @@
             </div>
             <div class="row mb-4">
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/jennie-morton.jpg">
                                 <div>
@@ -275,7 +278,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/nate-houstman.png">
                                 <div>
@@ -296,12 +299,12 @@
             </div>
             <div class="row mb-4">
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/kendra-aarhus.png">
                                 <div>
                                     <h4 class="card-title mb-0"><strong>Kendra Aarhus Van Kirkchove</strong></h4>
-                                    <h5 class="text-muted mb-2"></h5>
+                                    <h5 class="text-muted mb-2">Beauty Artist</h5>
                                 </div>
                             </div>
                             <p class="card-text">"I'm committed to showing you that together we can make a great impact on the world around us. Through conferences, speaking engagements,  volunteering, and empowering others to take action, this isn't a dream built on empty words. Let's talk. Let's make a difference. How can I help you inspire?" </p>
@@ -316,7 +319,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
-                    <div class="card">
+                    <div class="card member-card h-100">
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/aaron-vannoy.png">
                                 <div>
@@ -356,7 +359,7 @@
             </div>
         </div>
     </div>
-    <div class="section footer" id="footer">
+    <div class="section footer" id="contact">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-md-6">
