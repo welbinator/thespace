@@ -36,7 +36,7 @@
                 <div class="col-12 col-md-4 align-self-center">
                     <h1 class="fancy-header">The <span class="outline">Space</span>&nbsp;For<br>your Creativity</h1>
                     <p>The Space is a coworking space and community for Cedar Rapids Iowa creatives. With a wonderful mix of artists, freelancers and entrepreneurs, The Space offers something you won't find at other coworking spaces: community.</p>
-                    <div class="button-container"><button class="btn btn-outline-primary" type="button">Join Our Community</button><button class="btn btn-outline-primary" type="button">Perks</button></div>
+                    <div class="button-container"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-primary" type="button">Join Our Community</button></a><a href="#perks"><button class="btn btn-outline-primary" type="button">Perks</button></a></div>
                 </div>
                 <div class="col-12 col-md-8">
                     <div class="floating-image-container"><img class="img-fluid d-none d-md-block floating-image" src="assets/img/whole-image.png"></div>
