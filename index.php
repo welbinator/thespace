@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>The Space</title>
+    <title>The Space Coworking</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/Dock%20No.%2011.css">
     <link rel="stylesheet" href="assets/css/Proxima%20Nova.css">
