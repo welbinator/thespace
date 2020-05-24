@@ -16,8 +16,7 @@
 <body>
     <nav class="navbar navbar-dark navbar-expand-md fixed-top">
         <div class="container-fluid"><a class="navbar-brand" href="#"><img class="logo" src="assets/img/logo.svg"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div
-                class="collapse navbar-collapse" id="navcol-1">
+            <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav">
                     <li class="nav-item" role="presentation"><a class="nav-link active" href="#">Home</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#perks">About</a></li>
@@ -27,25 +26,26 @@
                     <li class="nav-item" role="presentation"><a class="nav-link social" target="_blank" href="https://www.facebook.com/the.space.cr/"><i class="fab fa-facebook"></i><span>&nbsp;facebook</span></a></li>
                     <!-- <li class="nav-item" role="presentation"><a class="nav-link social mt-2 mt-md-0" href="#"><i class="fab fa-instagram"></i><span>&nbsp;Instagram</span></a></li> -->
                 </ul>
-        </div>
+            </div>
         </div>
     </nav>
     <div id="particles-js" class="hero">
-        <div class="container-fluid">
+        <div class="container-fluid px-0 px-md-2">
             <div class="row">
-                <div class="col-12 col-md-4 align-self-center">
+                <div class="col-12 col-lg-4 align-self-center">
                     <h1 class="fancy-header">The <span class="outline">Space</span>&nbsp;For<br>your Creativity</h1>
                     <p>The Space is a coworking space and community for Cedar Rapids Iowa creatives. With a wonderful mix of artists, freelancers and entrepreneurs, The Space offers something you won't find at other coworking spaces: community.</p>
                     <div class="button-container">
-                        <a href="https://membership.cedarrapidscoworking.space" class="btn btn-outline-primary" type="button">Join Our Community</a>
-                        <a href="#perks" class="btn btn-outline-primary" type="button">Perks</a>
+                        <a href="https://membership.cedarrapidscoworking.space" class="btn btn-outline-primary" role="button">Join Our Community</a>
+                        <a href="#perks" class="btn btn-outline-primary" role="button">Perks</a>
                     </div>
                 </div>
-                <div class="col-12 col-md-8">
-                    <div class="floating-image-container"><img class="img-fluid d-none d-md-block floating-image" src="assets/img/whole-image.png"></div>
+                <div class="col-12 col-lg-8">
+                    <div class="floating-image-container"><img class="img-fluid d-none d-lg-block floating-image" src="assets/img/whole-image.png"></div>
                 </div>
             </div>
-        </div><img class="bottom-triangle" src="assets/img/bottom-triangle.svg"></div>
+        </div><img class="bottom-triangle" src="assets/img/bottom-triangle.svg">
+    </div>
     <div class="section" id="perks">
         <div class="container">
             <h1 class="fancy-header mb-5">Perks</h1>
@@ -203,8 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><img class="img-fluid" src="assets/img/arrow-left.svg"><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button"
-                        data-slide="next"><span class="sr-only">Next</span><img class="img-fluid" src="assets/img/arrow-right.svg"></a></div>
+                <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><img class="img-fluid" src="assets/img/arrow-left.svg"><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-slide="next"><span class="sr-only">Next</span><img class="img-fluid" src="assets/img/arrow-right.svg"></a></div>
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-1" data-slide-to="1"></li>
@@ -223,18 +222,18 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/devin-green-thumb.jpg">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Devin Green - Graphic and Web Designer</strong></h4>
-                                    <h5 class="text-muted mb-2">Devin Green</h5>
+                                    <h4 class="card-title mb-0"><strong>Devin Green</strong></h4>
+                                    <h5 class="text-muted mb-2">Graphic and Web Designer</h5>
                                 </div>
                             </div>
                             <p class="card-text">"When I create, I pull inspiration from all avenues possible. I make sure that it represents the task at hand. I believe designing is more than just putting pictures together." </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://devingreen.me" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="http://facebook.com/devinmigreen" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <a class="social-card-icon" href="https://twitter.com/artistro08?fbclid=IwAR1ahgONdSCzaeBrIl0JeAhPb-VS0Nq-2FHJ0H2TXewWOziD5J9cyAuprG0" target="_blank"><i class="fab fa-twitter"></i></a>
-                            <a class="social-card-icon" href="https://instagram.com/artistro08?fbclid=IwAR1oF8ZLQqX7osmIKwYEqy5uE-F4vD2zx9dseLzhzTNJe_u_IGGYWCh6HUg" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://linkedin.com/in/artistro08?fbclid=IwAR11_BCMEFypDhidTByJ7JfTXQ4nNts7mktCT1y1LBXS7dLUkaSfsm8qg30" target="_blank"><i class="fab fa-linkedin"></i></a>
-                                    </div>
+                                <a class="social-card-icon" href="https://devingreen.me" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="http://facebook.com/devinmigreen" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a class="social-card-icon" href="https://twitter.com/artistro08?fbclid=IwAR1ahgONdSCzaeBrIl0JeAhPb-VS0Nq-2FHJ0H2TXewWOziD5J9cyAuprG0" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="social-card-icon" href="https://instagram.com/artistro08?fbclid=IwAR1oF8ZLQqX7osmIKwYEqy5uE-F4vD2zx9dseLzhzTNJe_u_IGGYWCh6HUg" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="social-card-icon" href="https://linkedin.com/in/artistro08?fbclid=IwAR11_BCMEFypDhidTByJ7JfTXQ4nNts7mktCT1y1LBXS7dLUkaSfsm8qg30" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -243,16 +242,16 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/rina-jensen.jpg">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Rina Jensen - Business Resilliancy Coach</strong></h4>
-                                    <h5 class="text-muted mb-2">Rina Jensen</h5>
+                                    <h4 class="card-title mb-0"><strong>Rina Jensen</strong></h4>
+                                    <h5 class="text-muted mb-2">Business Resilliancy Coach</h5>
                                 </div>
                             </div>
                             <p class="card-text">"The most important piece is our thinking. It determines EVERYTHING in our lives. Who we feel we deserve to be coupled with. The kind of work we think we deserve to have. And the friends we surround ourselves with. All of it starts within ourselves." </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://rinajensen.com" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://www.facebook.com/pg/RinaLJensen" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <a class="social-card-icon" href="https://instagram.com/RinaLJensen" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://linkedin.com/in/RinaJensen" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                                <a class="social-card-icon" href="https://rinajensen.com" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://www.facebook.com/pg/RinaLJensen" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a class="social-card-icon" href="https://instagram.com/RinaLJensen" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="social-card-icon" href="https://linkedin.com/in/RinaJensen" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -263,17 +262,17 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/jennie-morton.jpg">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Jennie Morton - Brand Story Teller</strong></h4>
-                                    <h5 class="text-muted mb-2">Herringbone Freelance</h5>
+                                    <h4 class="card-title mb-0"><strong>Jennie Morton</strong></h4>
+                                    <h5 class="text-muted mb-2">Brand Story Teller</h5>
                                 </div>
                             </div>
                             <p class="card-text">"I write about all things engineering. Give me a topic that is complex and bores most people to tears - I'll be happy as a clam geeking out over all the technical details." </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://herringbonefreelance.com" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://www.facebook.com/herringbonefreelance/" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
-                            <a class="social-card-icon"href="https://www.instagram.com/herringbonefreelance/" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://www.linkedin.com/in/jennie-morton-freelance-engineering-writer/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                                <a class="social-card-icon" href="https://herringbonefreelance.com" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://www.facebook.com/herringbonefreelance/" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
+                                <a class="social-card-icon" href="https://www.instagram.com/herringbonefreelance/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="social-card-icon" href="https://www.linkedin.com/in/jennie-morton-freelance-engineering-writer/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -282,17 +281,17 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/nate-houstman.png">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Nate Houstman - Owner</strong></h4>
+                                    <h4 class="card-title mb-0"><strong>Nate Houstman</strong></h4>
                                     <h5 class="text-muted mb-2">Xiphos Web Marketing</h5>
                                 </div>
                             </div>
                             <p class="card-text">"I’m an advertiser, web designer, blogger, and marketing nerd, in business since 2014. Here, I present news and how-to’s for everyone. Want to work with me? Click the button below! We’re in a new age of entrepreneurship- there’s no reason anyone can’t succeed!" </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://xiphoswebmarketing.com/" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://www.facebook.com/xiphoswebmarketing" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <a class="social-card-icon" href="https://www.youtube.com/channel/UCsFz-XHDc0NSXNCsIMStgEg" target="_blank"><i class="fab fa-youtube"></i></a>
-                            
-                                    </div>
+                                <a class="social-card-icon" href="https://xiphoswebmarketing.com/" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://www.facebook.com/xiphoswebmarketing" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a class="social-card-icon" href="https://www.youtube.com/channel/UCsFz-XHDc0NSXNCsIMStgEg" target="_blank"><i class="fab fa-youtube"></i></a>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -307,14 +306,14 @@
                                     <h5 class="text-muted mb-2">Beauty Artist</h5>
                                 </div>
                             </div>
-                            <p class="card-text">"I'm committed to showing you that together we can make a great impact on the world around us. Through conferences, speaking engagements,  volunteering, and empowering others to take action, this isn't a dream built on empty words. Let's talk. Let's make a difference. How can I help you inspire?" </p>
+                            <p class="card-text">"I'm committed to showing you that together we can make a great impact on the world around us. Through conferences, speaking engagements, volunteering, and empowering others to take action, this isn't a dream built on empty words. Let's talk. Let's make a difference. How can I help you inspire?" </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://kendraaarhus.com" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://youConferences.com" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://www.facebook.com/kendraaarhus" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
-                            <a class="social-card-icon"href="https://www.instagram.com/kendraarhus" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://www.linkedin.com/in/Kendraaarhus" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                                <a class="social-card-icon" href="https://kendraaarhus.com" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://youConferences.com" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://www.facebook.com/kendraaarhus" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
+                                <a class="social-card-icon" href="https://www.instagram.com/kendraarhus" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="social-card-icon" href="https://www.linkedin.com/in/Kendraaarhus" target="_blank"><i class="fab fa-linkedin"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -323,17 +322,17 @@
                         <div class="card-body">
                             <div class="profile-heading"><img class="profile-image" src="assets/img/aaron-vannoy.png">
                                 <div>
-                                    <h4 class="card-title mb-0"><strong>Aaron Van Noy - Owner</strong></h4>
+                                    <h4 class="card-title mb-0"><strong>Aaron Van Noy</strong></h4>
                                     <h5 class="text-muted mb-2">Big Ten Web Design</h5>
                                 </div>
                             </div>
                             <p class="card-text">"We take our job seriously because your company’s future often depends on us. We educate our clients on our marketing strategies and the value we provide." </p>
                             <div class="social-card">
-                            <a class="social-card-icon" href="https://bigtenwebdesign.com/" target="_blank"><i class="fas fa-globe"></i></a>
-                            <a class="social-card-icon" href="https://www.facebook.com/BigTenWebDesign/" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <a class="social-card-icon" href="https://www.linkedin.com/company/big-ten-web-design/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            
-                                    </div>
+                                <a class="social-card-icon" href="https://bigtenwebdesign.com/" target="_blank"><i class="fas fa-globe"></i></a>
+                                <a class="social-card-icon" href="https://www.facebook.com/BigTenWebDesign/" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a class="social-card-icon" href="https://www.linkedin.com/company/big-ten-web-design/" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -366,7 +365,7 @@
                     <h1 class="fancy-header mt-4">Contact us</h1>
                     <p>208 12th ave SE Unit G, Cedar Rapids, IA 52401<br>Email : <a href="mailto:create@cedarrapidscoworking.space">create@cedarrapidscoworking.space</a><br>Phone : <a href="tel:3193605541">319.360.5541</a></p>
                 </div>
-                <div class="col-12 col-md-6"><img class="d-block ml-auto" src="assets/img/the_space_footer.png" width="150px"></div>
+                <div class="col-12 col-md-6"><img class="d-block ml-auto mr-auto mr-md-0" src="assets/img/the_space_footer.png" width="150px"></div>
             </div>
         </div>
     </div>

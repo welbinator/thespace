@@ -9,6 +9,7 @@ body {
 
 .hero {
   height: auto;
+  min-height: 700px;
   background-color: #231F20;
   position: relative;
   display: flex;
@@ -23,7 +24,7 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1px;
-  padding: .5em .8em;
+  padding: .5em .5em;
   text-decoration: none;
 }
 
@@ -44,16 +45,17 @@ body {
   justify-content: center;
   align-items: center;
   line-height: 0;
-  margin-left: 14px;
+  margin-left: 4px;
 }
 
 .navbar {
   padding: 1.3em 30px;
   background-image: linear-gradient(#000000, rgba(0,0,0,0));
+  transition: background-color 250ms ease;
 }
 
 .logo {
-  width: 275px;
+  width: 100%;
 }
 
 .bottom-triangle {
@@ -333,6 +335,8 @@ a i {
 @media (max-width: 767px) {
   .hero {
     min-height: 600px;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
   }
 }
 
@@ -351,6 +355,7 @@ a i {
     width: auto !important;
     display: inline-flex;
     padding: .5rem;
+    margin-top: .5rem;
   }
   .carousel-control-next,
   .carousel-control-prev {
@@ -392,8 +397,11 @@ a i {
 
 @media (max-width: 767px) {
   #navcol-1 {
-    padding: 25px;
-    background-color: rgba(0, 0, 0, 0.63);
+    padding: 0 25px;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    padding: .8em .8em;
   }
 }
 
@@ -409,4 +417,42 @@ a i {
 
 .carousel-indicators li {
   background-color: #231f20;
+}
+
+@media(max-width: 767px) {
+  .button-container .btn {
+    margin-bottom: 1rem;
+  }
+}
+
+@media(max-width: 767px) {
+  .card-icon {
+    margin-right: 0;
+  }
+  .card-title {
+    font-size: 1.5rem;
+    max-width: 170px;
+  }
+  .profile-heading {
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 0rem;
+  }
+  .bottom-triangle {
+    display: none;
+  }
+}
+
+.navbar.open {
+  background-color: #000;
+}
+button.navbar-toggler {
+  outline: 0;
+}
+
+a.navbar-brand {
+  max-width: 200px;
+}
+ul.nav.navbar-nav {
+  align-items: center;
 }

@@ -332,3 +332,11 @@ particlesJS("new-members-js", {
     },
     "retina_detect": true
 });
+
+$('#navcol-1').on("show.bs.collapse", function() {
+    $('.navbar').addClass("open");
+});
+
+$('#navcol-1').on("hide.bs.collapse", function () {
+    $('.navbar').removeClass("open");
+});
