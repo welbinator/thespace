@@ -212,6 +212,8 @@ p {
 
 .card-title {
 	font-weight: 800;
+	max-width: 220px;
+	word-break: break-word;
 }
 
 .section.dark {
