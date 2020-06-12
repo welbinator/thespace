@@ -116,7 +116,7 @@
         <div class="container">
             <h1 class="text-center fancy-header my-5">Pricing</h1>
             <div class="row">
-                <div class="col-12 col-md-5 ml-md-auto">
+                <div class="col-12 col-lg-4 ml-md-auto">
                     <div class="card">
                         <div class="card-body">
                             <div class="card-icon"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"></div>
@@ -136,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-5 mr-md-auto">
+                <div class="col-12 col-lg-4 mr-md-auto">
                     <div class="card">
                         <div class="card-body">
                             <div class="card-icon"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"></div>
@@ -149,6 +149,23 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Bigger discount on printing services through Allegra</li>
                             </ul>
                             <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 ml-md-auto">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="card-icon"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"><img class="img-fluid pricing-icon" src="assets/img/pricing-icon.svg"></div>
+                            <h2 class="card-title text-uppercase">Private Office</h2>
+                            <h2 class="text-muted card-subtitle">100sqft</h2>
+                            <hr>
+                            <h5 class="card-title">Includes</h5>
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-check-circle"></i>&nbsp;All the benefits of the Dedicated Desk and Floater plans</li>
+                                <li><i class="fas fa-check-circle"></i>&nbsp;Your own furnished office, with a window</li>
+                                <li><i class="fas fa-check-circle"></i>&nbsp;Contact James for more information</li>
+                            </ul>
+                            <div class="text-center"><a target="_blank" href="mailto:create@crcoworking.space"><button class="btn btn-outline-secondary" type="button">More Information</button></a></div>
                         </div>
                     </div>
                 </div>
