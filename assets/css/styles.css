@@ -31,6 +31,9 @@ body {
 .navbar-expand-md .navbar-nav {
 	margin-left: auto;
 }
+.navbar-expand-lg .navbar-nav {
+	margin-left: auto;
+}
 
 .navbar-dark .navbar-nav .nav-link.social {
 	background-color: white;
