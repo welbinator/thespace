@@ -166,7 +166,7 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Your own furnished office, with a window</li>
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Contact James for more information</li>
                             </ul>
-                            <div class="text-center"><a target="_blank" href="mailto:create@crcoworking.space"><button class="btn btn-outline-secondary" type="button">More Information</button></a></div>
+                            <div class="text-center"><a target="_blank" href="mailto:create@crcoworking.space"><button class="btn btn-outline-secondary" type="button">Email James</button></a></div>
                         </div>
                     </div>
                 </div>
