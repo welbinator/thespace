@@ -133,7 +133,7 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Discount on printing services through Allegra Printing</li>
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Business mail listing</li>
                             </ul>
-                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
+                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space/floater"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Your own desk and chair</li>
                                 <li><i class="fas fa-check-circle"></i>&nbsp;Bigger discount on printing services through Allegra</li>
                             </ul>
-                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
+                            <div class="text-center"><a href="https://membership.cedarrapidscoworking.space/dedicated-desk/"><button class="btn btn-outline-secondary" type="button">Get Started</button></a></div>
                         </div>
                     </div>
                 </div>
