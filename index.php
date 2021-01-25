@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-8">
-                <div class="floating-image-container"><img class="img-fluid d-none d-lg-block floating-image" src="assets/img/whole-image.png"></div>
+                <div id="scene" class="floating-image-container"><img data-depth="0.4" class="img-fluid d-none d-lg-block floating-image" src="assets/img/whole-image.png"></div>
             </div>
         </div>
     </div><img class="bottom-triangle" src="assets/img/bottom-triangle.svg">
@@ -238,7 +238,8 @@
                             <a class="social-card-icon" href="https://rinajensen.com" target="_blank"><i class="fas fa-globe"></i></a>
                             <a class="social-card-icon" href="https://www.facebook.com/pg/RinaLJensen" target="_blank"><i class="fab fa-facebook"></i></a>
                             <a class="social-card-icon" href="https://instagram.com/RinaLJensen" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://linkedin.com/in/RinaJensen" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                            <a class="social-card-icon" href="https://linkedin.com/in/RinaJensen" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -259,7 +260,8 @@
                             <a class="social-card-icon" href="https://www.facebook.com/herringbonefreelance/" target="_blank"><i class="fab fa-facebook"></i></a>
                             <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
                             <a class="social-card-icon" href="https://www.instagram.com/herringbonefreelance/" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://www.linkedin.com/in/jennie-morton-freelance-engineering-writer/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                            <a class="social-card-icon" href="https://www.linkedin.com/in/jennie-morton-freelance-engineering-writer/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -300,7 +302,8 @@
                             <a class="social-card-icon" href="https://www.facebook.com/kendraaarhus" target="_blank"><i class="fab fa-facebook"></i></a>
                             <!-- <a class="social-card-icon" href="#"><i class="fab fa-twitter"></i></a> -->
                             <a class="social-card-icon" href="https://www.instagram.com/kendraarhus" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a class="social-card-icon" href="https://www.linkedin.com/in/Kendraaarhus" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                            <a class="social-card-icon" href="https://www.linkedin.com/in/Kendraaarhus" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -359,6 +362,7 @@
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/particles.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 <script src="assets/js/app.js"></script>
 </body>
 
